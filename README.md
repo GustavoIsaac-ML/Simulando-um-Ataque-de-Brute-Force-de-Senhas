@@ -2,7 +2,7 @@
 
 # Desafio DIO — Força Bruta com Kali Linux + Medusa (Entrega Completa — Simulação)
 
-> **Aviso legal**: todo o conteúdo deste repositório é uma **simulação educativa**. As evidências, IPs e credenciais apresentadas são **sanitizadas** e fictícias. Não execute testes contra sistemas que você não possui ou sem autorização expressa.
+# **Aviso legal**: todo o conteúdo deste repositório é uma **simulação educativa**. As evidências, IPs e credenciais apresentadas são **sanitizadas** e fictícias. Não execute testes contra sistemas que você não possui ou sem autorização expressa.
 
 ---
 
